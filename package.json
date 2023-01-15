@@ -1,0 +1,11 @@
+{
+  "name": "neo-scraper-example",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^15.2.1",
+    "neo-scraper": "^0.5.8"
+  }
+}
