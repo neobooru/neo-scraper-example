@@ -7,6 +7,8 @@ yarn install
 node index.js
 ```
 
+It is VERY important that you add `"type": "module",` inside your package.json
+
 ## Notes
 
 - Updating JSDOM will probably break everything.
